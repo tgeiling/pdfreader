@@ -1,0 +1,2 @@
+image_pricelist.pdf
+text_pricelist.pdf
